@@ -45,7 +45,8 @@ CineBazaar is a clone of the official Netflix website, designed to replicate the
 6. **Deploy:**: For deployment, you can use platforms like Vercel or Netlify. Follow their guides to deploy your React app.
 
 ## Snapshot of CineBaazar
-![image](https://github.com/user-attachments/assets/feb0a065-aee5-4a13-9e0b-91327c8cc565)
+![image](https://github.com/user-attachments/assets/0647a091-b6cb-4dff-ba32-7221b3654228)
+
 
 
 ---

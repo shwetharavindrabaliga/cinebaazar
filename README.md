@@ -28,21 +28,21 @@ CineBazaar is a clone of the official Netflix website, designed to replicate the
    ```bash
    git clone https://github.com/yourusername/cinebazaar.git
 
-2. **Install Dependencies: **: Navigate to the project directory and install the dependencies:
+2. **Install Dependencies**: Navigate to the project directory and install the dependencies:
 
    ```bash
    npm install
 
-3. **Run the Development Server: **: Start the development server:
+3. **Run the Development Server**: Start the development server:
 
    ```bash
    npm start
 
-4. **Update Firebase Configuration: **: Replace the Firebase configuration in src/firebase.js with your own Firebase project settings.
+4. **Update Firebase Configuration**: Replace the Firebase configuration in src/firebase.js with your own Firebase project settings.
 
-5: **Configure TMDB API:**: Update the TMDB API key in src/requests.js with your own API key.
+5. **Configure TMDB API**: Update the TMDB API key in src/requests.js with your own API key.
 
-6. **Deploy:**: For deployment, you can use platforms like Vercel or Netlify. Follow their guides to deploy your React app.
+6. **Deploy**: For deployment, you can use platforms like Vercel or Netlify. Follow their guides to deploy your React app.
 
 ## Snapshot of CineBaazar
 ![image](https://github.com/user-attachments/assets/0647a091-b6cb-4dff-ba32-7221b3654228)
